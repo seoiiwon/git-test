@@ -1,0 +1,1 @@
+print("git master가 되기 위한 master 브랜치")
