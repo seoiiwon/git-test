@@ -5,3 +5,7 @@ def add(a, b):
     return a+b
 
 print(add("다들", "힘내"))
+
+# test code
+print(add(3, 4))
+print(add(True, False))
